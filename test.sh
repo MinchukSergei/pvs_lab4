@@ -39,3 +39,9 @@ sudo echo "10" > /dev/calc0
 sudo echo "0" > /dev/calc1
 sudo echo "/" > /dev/calc2
 cat /dev/calc3
+
+sudo echo "10 ( 0 ="
+sudo echo "10" > /dev/calc0
+sudo echo "0" > /dev/calc1
+sudo echo "(" > /dev/calc2
+cat /dev/calc3
